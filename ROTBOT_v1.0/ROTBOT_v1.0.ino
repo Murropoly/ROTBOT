@@ -1,6 +1,6 @@
 /*
    RotBot v1.0
-   Sample code/Reference i C/C++
+   Sample code/Reference
    Made by Tyler Muranaka
 */
 
